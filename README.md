@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**geraldtt47/geraldtt47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653a18e9602c6661a55ee03c?variant=dark)](https://roadmap.sh)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
