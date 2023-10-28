@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/653a18e9602c6661a55ee03c?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/653a18e9602c6661a55ee03c?variant=dark)](https://roadmap.sh)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
