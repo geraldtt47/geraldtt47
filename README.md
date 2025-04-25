@@ -32,7 +32,7 @@
 
 ##
 
-<a href="https://www.linkedin.com/in/gerald-t-b851bb252/" title="Linkedin Profile">
-  <img src="https://img.shields.io/badge/Linkedin-Daniele%20Luisetto-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
-</a>
+<!--- <a href="https://www.linkedin.com/in/gerald-t-b851bb252/" title="Linkedin Profile">
+  <img src="https://img.shields.io/badge/Linkedin-Gerald%20T-blue?logo=linkedin&logoColor=white" alt="Linkedin Shield"/>
+</a> --->
 
