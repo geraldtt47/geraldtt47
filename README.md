@@ -85,6 +85,37 @@
   <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
 </div>
 
+## UI/UX Design
+
+[![My Skills](https://skillicons.dev/icons?i=figma,xd,svg,ai,ps,ae&theme=light)](https://skillicons.dev)
+
+## Full Stack Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## Mobile Development
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## Databases
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## DevOps
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## Cloud
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## Certifications
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+
+## Machine Learning
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
 
 ##
 
