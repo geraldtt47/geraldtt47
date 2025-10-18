@@ -95,27 +95,27 @@
 
 ## Mobile Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,swift,androidstudio,apple,gradle&theme=light)](https://skillicons.dev)
 
 ## Databases
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=appwrite,dynamodb,elasticsearch,firebase,supabase,mongodb,mysql,postgres,planetscale,prisma,redis,sqlite,sequelize&theme=light)](https://skillicons.dev)
 
 ## DevOps
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,ansible,terraform,ubuntu,bash,docker,git,github,githubactions,gitlab,jenkins,kubernetes,linux,neovim,nginx,powershell,grafana,prometheus,sentry&theme=light)](https://skillicons.dev)
 
 ## Cloud
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
-
-## Certifications
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp&theme=light)](https://skillicons.dev)
 
 ## Machine Learning
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,js,ts,react,nextjs,express&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py,pytorch,tensorflow,vscode,aws,azure,gcp&theme=light)](https://skillicons.dev)
+
+## Certifications
+
+[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
 
 ##
 
