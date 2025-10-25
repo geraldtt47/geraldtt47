@@ -113,9 +113,15 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,py,pytorch,tensorflow,vscode,aws,azure,gcp&theme=light)](https://skillicons.dev)
 
-## Certifications
+## AWS Cloud, AI and ML Certifications
 
-[![My Skills](https://skillicons.dev/icons?i=aws&theme=light)](https://skillicons.dev)
+<div>
+  <a href="#"><img width="140" height="140" src="ccp.png" alt="Cloud Practitioner" title="Cloud Practitioner"/></a>
+  <a href="#"><img width="140" height="140" src="saa.png" alt="Solutions Architect Associate" title="Solutions Architect Associate"/></a>
+  <a href="#"><img width="140" height="140" src="aif.png" alt="AI Foundational" title="AI Foundational"/></a>
+  <a href="#"><img width="140" height="140" src="mla.png" alt="Machine Learning Associate" title="Machine Learning Associate"/></a>
+  <a href="#"><img width="140" height="140" src="mls.png" alt="Machine Learning Specialty" title="Machine Learning Specialty"/></a>
+</div>
 
 ##
 
