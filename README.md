@@ -126,6 +126,6 @@ Figma · design systems · Tailwind CSS · component-driven UI (shadcn/ui, Radix
 
 <div align="center">
 
-<sub>Senior AI Engineer · AI-first Builder · Cloud Certified · Always Learning</sub>
+<sub>Full Stack AI Engineer · AI-first Builder · Cloud Certified · Always Learning</sub>
 
 </div>
