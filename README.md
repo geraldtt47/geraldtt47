@@ -23,7 +23,7 @@ Building production-grade **AI systems**, **SaaS products**, and **full-stack pl
 
 ---
 
-<a name="about"></a>
+<a name="#about"></a>
 ## About
 
 I'm a **senior full-stack engineer** and **AI developer** who ships **SaaS products** end to end — LLM-powered apps, agent orchestration, RAG systems, subscriptions, and the infrastructure behind them.
@@ -40,7 +40,7 @@ Portfolio demos run on configured **VPS** infrastructure today. The same codebas
 
 ---
 
-<a name="featured-work"></a>
+<a name="#featured-work"></a>
 ## Featured Work
 
 **Portfolio demonstrations** — sanitized, deployable builds that mirror real SaaS delivery (synthetic data, public-safe branding); same engineering standards as client products.
@@ -127,7 +127,7 @@ Mobile-first calorie and wellness companion: nutrition, hydration, and daily goa
 
 ---
 
-<a name="deployment--multi-target"></a>
+<a name="#deployment--multi-target"></a>
 ## Deployment & Multi-Target
 
 Production portfolio apps ship as **Docker** images with **environment-driven configuration** (S3 endpoints, database URLs, feature flags)—the same artefacts target **VPS** or **AWS** without rewriting application code.
@@ -154,7 +154,7 @@ Production portfolio apps ship as **Docker** images with **environment-driven co
 
 ---
 
-<a name="aws-certifications"></a>
+<a name="#aws-certifications"></a>
 ## AWS Certifications
 
 **5 verified AWS credentials** — cloud foundations, solutions architecture, and AI/ML from practitioner through specialty. All badges link to live verification.
@@ -179,7 +179,7 @@ Production portfolio apps ship as **Docker** images with **environment-driven co
 
 ---
 
-<a name="what-i-build"></a>
+<a name="#what-i-build"></a>
 ## What I Build
 
 | Area                     | What I deliver                                                                                                                  |
@@ -196,7 +196,7 @@ Production portfolio apps ship as **Docker** images with **environment-driven co
 
 ---
 
-<a name="tech-stack"></a>
+<a name="#tech-stack"></a>
 ## Tech Stack
 
 ### AI, Agents & RAG
@@ -247,14 +247,14 @@ Figma · Tailwind CSS · shadcn/ui · Radix · design systems
 
 ---
 
-<a name="monorepo-architecture"></a>
+<a name="#monorepo-architecture"></a>
 ## Monorepo Architecture
 
 Featured products are **Bun + Turborepo monorepos** with shared workspace packages — auth, Zod schemas, AI prompts, payments, and UI — so web, API, mobile, and background workers stay in sync. Layouts follow **modular DDD/DDA** boundaries (domains, features, thin apps) with documented `ARCHITECTURE.md` entry points in each repo.
 
 ---
 
-<a name="currently"></a>
+<a name="#currently"></a>
 ## Currently
 
 - Operating **RAG-powered helpdesk** with Ragas offline eval, Langfuse traces, and human-in-the-loop escalation
@@ -269,7 +269,7 @@ Featured products are **Bun + Turborepo monorepos** with shared workspace packag
 
 ---
 
-<a name="connect"></a>
+<a name="#connect"></a>
 ## Connect
 
 <div align="center">
